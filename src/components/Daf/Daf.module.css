@@ -1,0 +1,21 @@
+.siman {
+  border: 1px solid black;
+  margin: 5px 20px;
+  padding: 5px 10px;
+}
+
+.siman .title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.siman p {
+  font-style: italic;
+  margin-top: 0px;
+}
+
+.dataPoint {
+  margin: 5px 20px;
+  padding: 5px 10px;
+}

@@ -1,0 +1,314 @@
+[
+  {
+    "group": "Zeraim",
+    "label": "berachos",
+    "value": 1
+  },
+  {
+    "group": "Zeraim",
+    "label": "peah",
+    "value": 2
+  },
+  {
+    "group": "Zeraim",
+    "label": "demai",
+    "value": 3
+  },
+  {
+    "group": "Zeraim",
+    "label": "kilaim",
+    "value": 4
+  },
+  {
+    "group": "Zeraim",
+    "label": "sheviis",
+    "value": 5
+  },
+  {
+    "group": "Zeraim",
+    "label": "terumos",
+    "value": 6
+  },
+  {
+    "group": "Zeraim",
+    "label": "maasros",
+    "value": 7
+  },
+  {
+    "group": "Zeraim",
+    "label": "maaser sheini",
+    "value": 8
+  },
+  {
+    "group": "Zeraim",
+    "label": "challah",
+    "value": 9
+  },
+  {
+    "group": "Zeraim",
+    "label": "orlah",
+    "value": 10
+  },
+  {
+    "group": "Zeraim",
+    "label": "bikkurim",
+    "value": 11
+  },
+  {
+    "group": "Moed",
+    "label": "Shabbos",
+    "value": 12
+  },
+  {
+    "group": "Moed",
+    "label": "Eruvin",
+    "value": 13
+  },
+  {
+    "group": "Moed",
+    "label": "Pesachim",
+    "value": 14
+  },
+  {
+    "group": "Moed",
+    "label": "Shekalim",
+    "value": 15
+  },
+  {
+    "group": "Moed",
+    "label": "Yoma",
+    "value": 16
+  },
+  {
+    "group": "Moed",
+    "label": "Sukkah",
+    "value": 17
+  },
+  {
+    "group": "Moed",
+    "label": "Beitzah",
+    "value": 18
+  },
+  {
+    "group": "Moed",
+    "label": "Rosh Hashanah",
+    "value": 19
+  },
+  {
+    "group": "Moed",
+    "label": "Taanis",
+    "value": 20
+  },
+  {
+    "group": "Moed",
+    "label": "Megillah",
+    "value": 21
+  },
+  {
+    "group": "Moed",
+    "label": "Moed Katan",
+    "value": 22
+  },
+  {
+    "group": "Moed",
+    "label": "Chagigah",
+    "value": 23
+  },
+  {
+    "group": "Nashim",
+    "label": "Yevamos",
+    "value": 24
+  },
+  {
+    "group": "Nashim",
+    "label": "Ketubos",
+    "value": 25
+  },
+  {
+    "group": "Nashim",
+    "label": "Nedarim",
+    "value": 26
+  },
+  {
+    "group": "Nashim",
+    "label": "Nazir",
+    "value": 27
+  },
+  {
+    "group": "Nashim",
+    "label": "Sotah",
+    "value": 28
+  },
+  {
+    "group": "Nashim",
+    "label": "Gittin",
+    "value": 29
+  },
+  {
+    "group": "Nezikin",
+    "label": "bava kamma",
+    "value": 30
+  },
+  {
+    "group": "Nezikin",
+    "label": "bava metzia",
+    "value": 31
+  },
+  {
+    "group": "Nezikin",
+    "label": "bava batra",
+    "value": 32
+  },
+  {
+    "group": "Nezikin",
+    "label": "sanhedrin",
+    "value": 33
+  },
+  {
+    "group": "Nezikin",
+    "label": "makkos",
+    "value": 34
+  },
+  {
+    "group": "Nezikin",
+    "label": "shevuos",
+    "value": 35
+  },
+  {
+    "group": "Nezikin",
+    "label": "edyos",
+    "value": 36
+  },
+  {
+    "group": "Nezikin",
+    "label": "avodah zarah",
+    "value": 37
+  },
+  {
+    "group": "Nezikin",
+    "label": "avot",
+    "value": 38
+  },
+  {
+    "group": "Nezikin",
+    "label": "horayos",
+    "value": 39
+  },
+  {
+    "group": "Kodashim",
+    "label": "zevahim",
+    "value": 40
+  },
+  {
+    "group": "Kodashim",
+    "label": "menahos",
+    "value": 41
+  },
+  {
+    "group": "Kodashim",
+    "label": "hullin",
+    "value": 42
+  },
+  {
+    "group": "Kodashim",
+    "label": "bechoros",
+    "value": 43
+  },
+  {
+    "group": "Kodashim",
+    "label": "arakhin",
+    "value": 44
+  },
+  {
+    "group": "Kodashim",
+    "label": "temurah",
+    "value": 45
+  },
+  {
+    "group": "Kodashim",
+    "label": "kerisos",
+    "value": 46
+  },
+  {
+    "group": "Kodashim",
+    "label": "meilah",
+    "value": 47
+  },
+
+  {
+    "group": "Kodashim",
+    "label": "tamid",
+    "value": 48
+  },
+  {
+    "group": "Kodashim",
+    "label": "middos",
+    "value": 49
+  },
+  {
+    "group": "Kodashim",
+    "label": "kinnim",
+    "value": 50
+  },
+  {
+    "group": "Taharos",
+    "label": "keilim",
+    "value": 51
+  },
+  {
+    "group": "Taharos",
+    "label": "oholot",
+    "value": 52
+  },
+  {
+    "group": "Taharos",
+    "label": "negaim",
+    "value": 53
+  },
+  {
+    "group": "Taharos",
+    "label": "parah",
+    "value": 54
+  },
+  {
+    "group": "Taharos",
+    "label": "tohorot",
+    "value": 55
+  },
+  {
+    "group": "Taharos",
+    "label": "mikvaot",
+    "value": 56
+  },
+  {
+    "group": "Taharos",
+    "label": "niddah",
+    "value": 57
+  },
+  {
+    "group": "Taharos",
+    "label": "machshirin",
+    "value": 58
+  },
+
+  {
+    "group": "Taharos",
+    "label": "zavim",
+    "value": 59
+  },
+  {
+    "group": "Taharos",
+    "label": "tevul yom",
+    "value": 60
+  },
+  {
+    "group": "Taharos",
+    "label": "yadayim",
+    "value": 61
+  },
+  {
+    "group": "Taharos",
+    "label": "uktzin",
+    "value": 62
+  }
+]

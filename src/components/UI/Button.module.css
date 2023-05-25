@@ -1,0 +1,26 @@
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+  padding: 20px;
+  border: none;
+
+  background-color: #457b9d;
+  transition: background-color 0.8s ease;
+
+  font-family: 'Comfortaa', cursive;
+  font-size: 1rem;
+  color: #f1faee;
+
+}
+
+.button:hover {
+  background-color: #ff8a5b;
+}
+
+.button:disabled {
+  background-color: rgba(153, 153, 153, 0.5);
+  transition: background-color 0.2s ease;
+}

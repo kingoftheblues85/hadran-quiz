@@ -1,0 +1,40 @@
+.select {
+  color: #333;
+  min-width: 7.5rem;
+}
+
+.optionsSection {
+  background-color: #FFF;
+  color: #333;
+  border: 1px solid #CCC;
+  margin: 5px 0px;
+  padding: 8px 0px;
+  
+}
+
+.optionsSection div {
+  display: flex;
+  align-items: center;
+}
+
+.optionsSection select {
+  width: 3.5rem;
+  height: 1.5rem;
+  font-size: .85rem;
+  margin: 0px 7px;
+  color: #333;
+
+}
+
+@keyframes shake {
+  0% { transform: translateX(0); }
+  10%, 30%, 50%, 70%, 90% { transform: translateX(-10px); }
+  20%, 40%, 60%, 80% { transform: translateX(10px); }
+  100% { transform: translateX(0); }
+}
+
+.error {
+  animation: shake 0.5s;
+  animation-iteration-count: 1;
+  border-color: red;
+}

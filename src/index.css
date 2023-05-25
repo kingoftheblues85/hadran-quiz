@@ -1,0 +1,28 @@
+/*
+https://coolors.co/palette/0d1b2a-1b263b-415a77-778da9-e0e1dd
+https://coolors.co/palette/e63946-f1faee-a8dadc-457b9d-1d3557
+
+*/
+
+
+
+body {
+  /* background: rgb(224, 225, 221); */
+  /* background: linear-gradient(
+    0deg,
+    rgba(224, 225, 221, 0.12572951543898814) 0%,
+    rgba(27, 38, 59, 1) 96%
+  ); */
+  /* background-size: cover; */
+  /* background-attachment: fixed; */
+  
+
+  /* font-family: 'Comfortaa', cursive; */
+  font-size: .85rem;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+

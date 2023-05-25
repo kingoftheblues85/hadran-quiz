@@ -1,0 +1,16 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  margin-top: 40px;
+  padding: 10px;
+
+
+
+  font-family: 'Courier New', Courier, monospace;
+  font-size: .8rem;
+  color: #1b263b;
+  
+}

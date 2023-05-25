@@ -1,0 +1,19 @@
+.question {
+  text-align: center;
+  background-color: #1d3557;
+
+  font-size: 1rem;
+  font-weight: normal;
+  color: #f1faee;
+
+  border-radius: 14px;
+  margin-bottom: 10px;
+  padding: 28px 24px;
+
+}
+
+.question h4 {
+  font-size: 1.4rem;
+  letter-spacing: 1.5px;
+}
+

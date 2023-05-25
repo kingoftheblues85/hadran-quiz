@@ -1,0 +1,721 @@
+[
+    {
+        "label": "zeraim",
+        "options": [
+            {
+                "seder": "zeraim",
+                "value": "berachos",
+                "label": "Berachos",
+                "order_no": 1,
+                "chapters": 9,
+                "pages_bavli": 63,
+                "pages_yerushalmi": 68,
+                "isDisabled": false
+            },
+            {
+                "seder": "zeraim",
+                "value": "peah",
+                "label": "Peah",
+                "order_no": 2,
+                "chapters": 8,
+                "mishnas": 69,
+                "pages_yerushalmi": 37,
+                "isDisabled": true
+            },
+            {
+                "seder": "zeraim",
+                "value": "demai",
+                "label": "Demai",
+                "order_no": 3,
+                "chapters": 7,
+                "mishnas": 57,
+                "pages_bavli": 27,
+                "isDisabled": true
+            },
+            {
+                "seder": "zeraim",
+                "value": "kilaim",
+                "label": "Kilaim",
+                "order_no": 4,
+                "chapters": 9,
+                "mishnas": 72,
+                "pages_bavli": 56,
+                "pages_yerushalmi": 31,
+                "isDisabled": true
+            },
+            {
+                "seder": "zeraim",
+                "value": "sheviis",
+                "label": "Sheviis",
+                "order_no": 5,
+                "chapters": 10,
+                "mishnas": 66,
+                "pages_bavli": 48,
+                "pages_yerushalmi": 32,
+                "isDisabled": true
+            },
+            {
+                "seder": "zeraim",
+                "value": "terumos",
+                "label": "Terumos",
+                "order_no": 6,
+                "chapters": 11,
+                "mishnas": 33,
+                "pages_bavli": 33,
+                "pages_yerushalmi": 32,
+                "isDisabled": true
+            },
+            {
+                "seder": "zeraim",
+                "value": "maasros",
+                "label": "Maasros",
+                "order_no": 7,
+                "chapters": 5,
+                "mishnas": 27,
+                "pages_bavli": 23,
+                "pages_yerushalmi": 19,
+                "isDisabled": true
+            },
+            {
+                "seder": "zeraim",
+                "value": "maaser sheini",
+                "label": "Maaser sheini",
+                "order_no": 8,
+                "chapters": 5,
+                "mishnas": 29,
+                "pages_bavli": 25,
+                "pages_yerushalmi": 22,
+                "isDisabled": true
+            },
+            {
+                "seder": "zeraim",
+                "value": "challah",
+                "label": "Challah",
+                "order_no": 9,
+                "chapters": 4,
+                "mishnas": 28,
+                "pages_bavli": 22,
+                "pages_yerushalmi": 20,
+                "isDisabled": true
+            },
+            {
+                "seder": "zeraim",
+                "value": "orlah",
+                "label": "Orlah",
+                "order_no": 10,
+                "chapters": 3,
+                "mishnas": 22,
+                "pages_bavli": 13,
+                "pages_yerushalmi": 20,
+                "isDisabled": true
+            },
+            {
+                "seder": "zeraim",
+                "value": "bikkurim",
+                "label": "Bikkurim",
+                "order_no": 11,
+                "chapters": 4,
+                "mishnas": 39,
+                "pages_bavli": 0,
+                "pages_yerushalmi": 13,
+                "isDisabled": true
+            }
+        ]
+    },
+    {
+        "label": "moed",
+        "options": [
+            {
+                "seder": "moed",
+                "value": "Shabbos",
+                "label": "Shabbos",
+                "order_no": 1,
+                "chapters": 24,
+                "mishnas": 139,
+                "pages_bavli": 156,
+                "pages_yerushalmi": 92,
+                "isDisabled": true
+            },
+            {
+                "seder": "moed",
+                "value": "Eruvin",
+                "label": "Eruvin",
+                "order_no": 2,
+                "chapters": 10,
+                "mishnas": 96,
+                "pages_bavli": 104,
+                "pages_yerushalmi": 65,
+                "isDisabled": true
+            },
+            {
+                "seder": "moed",
+                "value": "pesachim",
+                "label": "Pesachim",
+                "order_no": 3,
+                "chapters": 10,
+                "mishnas": 89,
+                "pages_bavli": 120,
+                "pages_yerushalmi": 71,
+                "isDisabled": false
+            },
+            {
+                "seder": "moed",
+                "value": "Shekalim",
+                "label": "Shekalim",
+                "order_no": 4,
+                "chapters": 8,
+                "mishnas": 52,
+                "pages_bavli": 21,
+                "pages_yerushalmi": 33,
+                "isDisabled": true
+            },
+            {
+                "seder": "moed",
+                "value": "Yoma",
+                "label": "Yoma",
+                "order_no": 5,
+                "chapters": 8,
+                "mishnas": 61,
+                "pages_bavli": 87,
+                "pages_yerushalmi": 42,
+                "isDisabled": true
+            },
+            {
+                "seder": "moed",
+                "value": "succah",
+                "label": "Succah",
+                "order_no": 6,
+                "chapters": 5,
+                "mishnas": 53,
+                "pages_bavli": 55,
+                "pages_yerushalmi": 26,
+                "isDisabled": false
+            },
+            {
+                "seder": "moed",
+                "value": "Beitzah",
+                "label": "Beitzah",
+                "order_no": 7,
+                "chapters": 5,
+                "mishnas": 42,
+                "pages_bavli": 39,
+                "pages_yerushalmi": 22,
+                "isDisabled": true
+            },
+            {
+                "seder": "moed",
+                "value": "Rosh Hashanah",
+                "label": "Rosh Hashanah",
+                "order_no": 8,
+                "chapters": 4,
+                "mishnas": 35,
+                "pages_bavli": 34,
+                "pages_yerushalmi": 22,
+                "isDisabled": true
+            },
+            {
+                "seder": "moed",
+                "value": "Taanis",
+                "label": "Taanis",
+                "order_no": 9,
+                "chapters": 4,
+                "mishnas": 34,
+                "pages_bavli": 30,
+                "pages_yerushalmi": 26,
+                "isDisabled": true
+            },
+            {
+                "seder": "moed",
+                "value": "Megillah",
+                "label": "Megillah",
+                "order_no": 10,
+                "chapters": 4,
+                "mishnas": 33,
+                "pages_bavli": 31,
+                "pages_yerushalmi": 34,
+                "isDisabled": true
+            },
+            {
+                "seder": "moed",
+                "value": "Moed Katan",
+                "label": "Moed Katan",
+                "order_no": 11,
+                "chapters": 3,
+                "mishnas": 24,
+                "pages_bavli": 28,
+                "pages_yerushalmi": 19,
+                "isDisabled": false
+            },
+            {
+                "seder": "moed",
+                "value": "Chagigah",
+                "label": "Chagigah",
+                "order_no": 12,
+                "chapters": 3,
+                "mishnas": 23,
+                "pages_bavli": 26,
+                "pages_yerushalmi": 22,
+                "isDisabled": true
+            }
+        ]
+    },
+    {
+        "label": "nashim",
+        "options": [
+            {
+                "seder": "nashim",
+                "value": "Yevamos",
+                "label": "Yevamos",
+                "order_no": 1,
+                "chapters": 16,
+                "mishnas": 123,
+                "pages_bavli": 121,
+                "pages_yerushalmi": 85,
+                "isDisabled": true
+            },
+            {
+                "seder": "nashim",
+                "value": "Ketubos",
+                "label": "Ketubos",
+                "order_no": 2,
+                "chapters": 13,
+                "mishnas": 111,
+                "pages_bavli": 111,
+                "pages_yerushalmi": 72,
+                "isDisabled": true
+            },
+            {
+                "seder": "nashim",
+                "value": "Nedarim",
+                "label": "Nedarim",
+                "order_no": 3,
+                "chapters": 11,
+                "mishnas": 90,
+                "pages_bavli": 90,
+                "pages_yerushalmi": 40,
+                "isDisabled": true
+            },
+            {
+                "seder": "nashim",
+                "value": "Nazir",
+                "label": "Nazir",
+                "order_no": 4,
+                "chapters": 9,
+                "mishnas": 60,
+                "pages_bavli": 65,
+                "pages_yerushalmi": 47,
+                "isDisabled": true
+            },
+            {
+                "seder": "nashim",
+                "value": "Sotah",
+                "label": "Sotah",
+                "order_no": 5,
+                "chapters": 9,
+                "mishnas": 67,
+                "pages_bavli": 48,
+                "pages_yerushalmi": 47,
+                "isDisabled": true
+            },
+            {
+                "seder": "nashim",
+                "value": "Gittin",
+                "label": "Gittin",
+                "order_no": 6,
+                "chapters": 9,
+                "mishnas": 75,
+                "pages_bavli": 89,
+                "pages_yerushalmi": 54,
+                "isDisabled": true
+            },
+            {
+                "seder": "nashim",
+                "label": "",
+                "order_no": 7,
+                "chapters": 4,
+                "mishnas": 46,
+                "pages_bavli": 81,
+                "pages_yerushalmi": 48,
+                "isDisabled": false
+            }
+        ]
+    },
+    {
+        "label": "nezikin",
+        "options": [
+            {
+                "seder": "nezikin",
+                "value": "bava kamma",
+                "label": "Bava kamma",
+                "order_no": 1,
+                "chapters": 10,
+                "mishnas": 79,
+                "pages_bavli": 118,
+                "pages_yerushalmi": 44,
+                "isDisabled": true
+            },
+            {
+                "seder": "nezikin",
+                "value": "bava metzia",
+                "label": "Bava metzia",
+                "order_no": 2,
+                "chapters": 10,
+                "mishnas": 101,
+                "pages_bavli": 118,
+                "pages_yerushalmi": 37,
+                "isDisabled": true
+            },
+            {
+                "seder": "nezikin",
+                "value": "bava batra",
+                "label": "Bava batra",
+                "order_no": 3,
+                "chapters": 10,
+                "mishnas": 86,
+                "pages_bavli": 175,
+                "pages_yerushalmi": 34,
+                "isDisabled": true
+            },
+            {
+                "seder": "nezikin",
+                "value": "sanhedrin",
+                "label": "Sanhedrin",
+                "order_no": 4,
+                "chapters": 11,
+                "mishnas": 71,
+                "pages_bavli": 112,
+                "pages_yerushalmi": 57,
+                "isDisabled": true
+            },
+            {
+                "seder": "nezikin",
+                "value": "makkos",
+                "label": "Makkos",
+                "order_no": 5,
+                "chapters": 3,
+                "mishnas": 34,
+                "pages_bavli": 23,
+                "pages_yerushalmi": 9,
+                "isDisabled": true
+            },
+            {
+                "seder": "nezikin",
+                "value": "shevuos",
+                "label": "Shevuos",
+                "order_no": 6,
+                "chapters": 8,
+                "mishnas": 62,
+                "pages_bavli": 48,
+                "pages_yerushalmi": 44,
+                "isDisabled": true
+            },
+            {
+                "seder": "nezikin",
+                "value": "edyos",
+                "label": "Edyos",
+                "order_no": 7,
+                "chapters": 8,
+                "mishnas": 74,
+                "pages_bavli": 0,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            },
+            {
+                "seder": "nezikin",
+                "value": "avodah zarah",
+                "label": "Avodah zarah",
+                "order_no": 8,
+                "chapters": 5,
+                "mishnas": 50,
+                "pages_bavli": 75,
+                "pages_yerushalmi": 37,
+                "isDisabled": true
+            },
+            {
+                "seder": "nezikin",
+                "value": "avot",
+                "label": "Avot",
+                "order_no": 9,
+                "chapters": 6,
+                "mishnas": 108,
+                "pages_bavli": 0,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            },
+            {
+                "seder": "nezikin",
+                "value": "horayos",
+                "label": "Horayos",
+                "order_no": 10,
+                "chapters": 3,
+                "mishnas": 20,
+                "pages_bavli": 13,
+                "pages_yerushalmi": 19,
+                "isDisabled": true
+            }
+        ]
+    },
+    {
+        "label": "kodashim",
+        "options": [
+            {
+                "seder": "kodashim",
+                "value": "zevahim",
+                "label": "Zevahim",
+                "order_no": 1,
+                "chapters": 14,
+                "mishnas": 101,
+                "pages_bavli": 119,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            },
+            {
+                "seder": "kodashim",
+                "value": "menahos",
+                "label": "Menahos",
+                "order_no": 2,
+                "chapters": 13,
+                "mishnas": 93,
+                "pages_bavli": 109,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            },
+            {
+                "seder": "kodashim",
+                "value": "hullin",
+                "label": "Hullin",
+                "order_no": 3,
+                "chapters": 12,
+                "mishnas": 74,
+                "pages_bavli": 141,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            },
+            {
+                "seder": "kodashim",
+                "value": "bechoros",
+                "label": "Bechoros",
+                "order_no": 4,
+                "chapters": 9,
+                "mishnas": 73,
+                "pages_bavli": 60,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            },
+            {
+                "seder": "kodashim",
+                "value": "arakhin",
+                "label": "Arakhin",
+                "order_no": 5,
+                "chapters": 9,
+                "mishnas": 50,
+                "pages_bavli": 33,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            },
+            {
+                "seder": "kodashim",
+                "value": "temurah",
+                "label": "Temurah",
+                "order_no": 6,
+                "chapters": 7,
+                "mishnas": 35,
+                "pages_bavli": 33,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            },
+            {
+                "seder": "kodashim",
+                "value": "kerisos",
+                "label": "Kerisos",
+                "order_no": 7,
+                "chapters": 6,
+                "mishnas": 43,
+                "pages_bavli": 27,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            },
+            {
+                "seder": "kodashim",
+                "value": "meilah",
+                "label": "Meilah",
+                "order_no": 8,
+                "chapters": 6,
+                "mishnas": 38,
+                "pages_bavli": 36,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            },
+            {
+                "seder": "kodashim",
+                "value": "tamid",
+                "label": "Tamid",
+                "order_no": 9,
+                "chapters": 7,
+                "mishnas": 34,
+                "pages_bavli": 0,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            },
+            {
+                "seder": "kodashim",
+                "value": "middos",
+                "label": "Middos",
+                "order_no": 10,
+                "chapters": 5,
+                "mishnas": 34,
+                "pages_bavli": 0,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            },
+            {
+                "seder": "kodashim",
+                "value": "kinnim",
+                "label": "Kinnim",
+                "order_no": 11,
+                "chapters": 3,
+                "mishnas": 15,
+                "pages_bavli": 0,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            }
+        ]
+    },
+    {
+        "label": "taharos",
+        "options": [
+            {
+                "seder": "taharos",
+                "value": "keilim",
+                "label": "Keilim",
+                "order_no": 1,
+                "chapters": 30,
+                "mishnas": 253,
+                "pages_bavli": 0,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            },
+            {
+                "seder": "taharos",
+                "value": "oholot",
+                "label": "Oholot",
+                "order_no": 2,
+                "chapters": 18,
+                "mishnas": 134,
+                "pages_bavli": 0,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            },
+            {
+                "seder": "taharos",
+                "value": "negaim",
+                "label": "Negaim",
+                "order_no": 3,
+                "chapters": 14,
+                "mishnas": 115,
+                "pages_bavli": 0,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            },
+            {
+                "seder": "taharos",
+                "value": "parah",
+                "label": "Parah",
+                "order_no": 4,
+                "chapters": 12,
+                "mishnas": 96,
+                "pages_bavli": 0,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            },
+            {
+                "seder": "taharos",
+                "value": "tohorot",
+                "label": "Tohorot",
+                "order_no": 5,
+                "chapters": 10,
+                "mishnas": 92,
+                "pages_bavli": 0,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            },
+            {
+                "seder": "taharos",
+                "value": "mikvaot",
+                "label": "Mikvaot",
+                "order_no": 6,
+                "chapters": 10,
+                "mishnas": 71,
+                "pages_bavli": 0,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            },
+            {
+                "seder": "taharos",
+                "value": "niddah",
+                "label": "Niddah",
+                "order_no": 7,
+                "chapters": 10,
+                "mishnas": 79,
+                "pages_bavli": 73,
+                "pages_yerushalmi": 13,
+                "isDisabled": true
+            },
+            {
+                "seder": "taharos",
+                "value": "machshirin",
+                "label": "Machshirin",
+                "order_no": 8,
+                "chapters": 6,
+                "mishnas": 54,
+                "pages_bavli": 0,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            },
+            {
+                "seder": "taharos",
+                "value": "zavim",
+                "label": "Zavim",
+                "order_no": 9,
+                "chapters": 5,
+                "mishnas": 32,
+                "pages_bavli": 0,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            },
+            {
+                "seder": "taharos",
+                "value": "tevul yom",
+                "label": "Tevul yom",
+                "order_no": 10,
+                "chapters": 4,
+                "mishnas": 26,
+                "pages_bavli": 0,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            },
+            {
+                "seder": "taharos",
+                "value": "yadayim",
+                "label": "Yadayim",
+                "order_no": 11,
+                "chapters": 4,
+                "mishnas": 22,
+                "pages_bavli": 0,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            },
+            {
+                "seder": "taharos",
+                "value": "uktzin",
+                "label": "Uktzin",
+                "order_no": 12,
+                "chapters": 3,
+                "mishnas": 28,
+                "pages_bavli": 0,
+                "pages_yerushalmi": 0,
+                "isDisabled": true
+            }
+        ]
+    }
+]
