@@ -8,6 +8,7 @@ export default function HighScores(props) {
 
   async function getHighScores() {
     const results = await fetch(
+      // "https://hadran-quiz-6dc9b-default-rtdb.firebaseio.com/scores.json"
       "https://hadran-quiz-default-rtdb.firebaseio.com/scores.json"
     );
 

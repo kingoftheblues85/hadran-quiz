@@ -157,20 +157,22 @@ export default function Quiz(props) {
 
   async function saveScoreToDatabase(score) {
     const data = {
-      name: prompt('Enter your name:'),
+      name: prompt("Enter your name:"),
       dateTime: new Date(8.64e15).toString(),
       tractate: quizModule.tractate.value,
       score: score,
-      
-    }
-    const result = await fetch('https://hadran-quiz-default-rtdb.firebaseio.com/scores.json', {
-      method: 'POST',
-      body: JSON.stringify(data),
-      headers: {
-        'Content-Type': 'Application/Json',
+    };
+    const result = await fetch(
+      // "https://hadran-quiz-6dc9b-default-rtdb.firebaseio.com/scores.json",
+      "https://hadran-quiz-default-rtdb.firebaseio.com/scores.json",
+      {
+        method: "POST",
+        body: JSON.stringify(data),
+        headers: {
+          "Content-Type": "Application/Json",
+        },
       }
-
-    })
+    );
   }
 
   const handleTimesUp = () => {
@@ -255,15 +257,16 @@ export default function Quiz(props) {
             showResults={showResults}
           />
 
-          {result != null && (
-            <Button onClick={nextQuestion}>
-              Continue
-            </Button>
-          )}
+          {result != null && <Button onClick={nextQuestion}>Continue</Button>}
 
           <div className="text-center">
             <hr />
-            <button className="btn btn-secondary" onClick={handleQuizIsComplete}>Exit Quiz</button>
+            <button
+              className="btn btn-secondary"
+              onClick={handleQuizIsComplete}
+            >
+              Exit Quiz
+            </button>
           </div>
         </>
       )}

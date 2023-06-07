@@ -315,7 +315,7 @@
                 "mishnas": 67,
                 "pages_bavli": 48,
                 "pages_yerushalmi": 47,
-                "isDisabled": true
+                "isDisabled": false
             },
             {
                 "seder": "nashim",

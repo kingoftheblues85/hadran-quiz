@@ -3,14 +3,21 @@
  * 
  */
 
-import puppeteer from "puppeteer";
-import fs from 'fs';
+const puppeteer = require('puppeteer');
+const fs = require('fs')
+
+// import puppeteer from "puppeteer";
+// import fs from 'fs';
 
 // Define the URL to the website to be scraped
 const WEBSITE = "https://www.zichru.com/login"
-const TRACTATE = "berachos"
+const TRACTATE = "sotah"
 const START_DAF = 2
-const END_DAF = 64
+const END_DAF = 49
+
+// Replace with your own login credentials
+const USERNAME = "aaronlevy85@gmail.com";
+const PASSWORD = "Tiku78247806!";
 
 const chromeOptions = {
   executablePath: "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
@@ -33,13 +40,9 @@ const main = async () => {
     waitUntil: "domcontentloaded",
   });
 
-  // Replace with your own login credentials
-  const username = "aaronlevy85@gmail.com";
-  const password = "Tiku78247806!";
-
   // Fill in the login credentials
-  await page.type('input[name="email"]', username);
-  await page.type('input[name="password"]', password);
+  await page.type('input[name="email"]', USERNAME);
+  await page.type('input[name="password"]', PASSWORD);
 
   // Wait for the user to solve the captcha manually and submit the form
   console.log('Please solve the captcha manually');
